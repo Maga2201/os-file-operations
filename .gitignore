@@ -1,0 +1,11 @@
+/task[1-7]
+/source.txt
+/copy.txt
+/data.txt
+/log.txt
+/sparse.bin
+/numbers.txt
+/compare1.txt
+/compare2.txt
+/empty.txt
+.DS_Store
